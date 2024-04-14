@@ -1,0 +1,208 @@
+{
+  "profile": {
+    "id": "1d7b2cea-b98b-4f87-b89e-39eea82288b0",
+    "firstName": "Raman",
+    "lastName": "Singh",
+    "jobProfile": ["Blogger", "Freelancer", "Photographer"],
+    "aboutText": "Web designer from USA, California. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.",
+    "dob": "19-12-1990",
+    "country": "India",
+    "address": "New Delhi, India",
+    "mobile": "https://cdn.pixabay.com/photo/2016/11/23/15/48/audience-1853662_1280.jpg",
+    "email": "raman333singh90@gmail.com",
+    "profilePhoto": "https://cdn.pixabay.com/photo/2016/11/23/15/48/audience-1853662_1280.jpg",
+    "services": [
+      {
+        "title": "Web Development",
+        "shortSummary": "Modern and mobile-ready website that will help you reach all of your marketing.",
+        "iconSize": "0 0 640 512",
+        "iconPath": "M278.9 511.5l-61-17.7c-6.4-1.8-10-8.5-8.2-14.9L346.2 8.7c1.8-6.4 8.5-10 14.9-8.2l61 17.7c6.4 1.8 10 8.5 8.2 14.9L293.8 503.3c-1.9 6.4-8.5 10.1-14.9 8.2zm-114-112.2l43.5-46.4c4.6-4.9 4.3-12.7-.8-17.2L117 256l90.6-79.7c5.1-4.5 5.5-12.3.8-17.2l-43.5-46.4c-4.5-4.8-12.1-5.1-17-.5L3.8 247.2c-5.1 4.7-5.1 12.8 0 17.5l144.1 135.1c4.9 4.6 12.5 4.4 17-.5zm327.2.6l144.1-135.1c5.1-4.7 5.1-12.8 0-17.5L492.1 112.1c-4.8-4.5-12.4-4.3-17 .5L431.6 159c-4.6 4.9-4.3 12.7.8 17.2L523 256l-90.6 79.7c-5.1 4.5-5.5 12.3-.8 17.2l43.5 46.4c4.5 4.9 12.1 5.1 17 .6z"
+      },
+      {
+        "title": "Music Writing",
+        "shortSummary": "Music copying, writing, creating, transcription, arranging and composition services.",
+        "iconSize": "0 0 512 512",
+        "iconPath": "M470.38 1.51L150.41 96A32 32 0 0 0 128 126.51v261.41A139 139 0 0 0 96 384c-53 0-96 28.66-96 64s43 64 96 64 96-28.66 96-64V214.32l256-75v184.61a138.4 138.4 0 0 0-32-3.93c-53 0-96 28.66-96 64s43 64 96 64 96-28.65 96-64V32a32 32 0 0 0-41.62-30.49z"
+      },
+      {
+        "title": "Advetising",
+        "shortSummary": "Advertising services include television, radio, print, mail, and web apps.",
+        "iconSize": "0 0 448 512",
+        "iconPath": "M224 150.7l42.9 160.7h-85.8L224 150.7zM448 80v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h352c26.5 0 48 21.5 48 48zm-65.3 325.3l-94.5-298.7H159.8L65.3 405.3H156l111.7-91.6 24.2 91.6h90.8z"
+      },
+      {
+        "title": "Game Development",
+        "shortSummary": "Developing memorable and unique mobile android, ios and video games.",
+        "iconSize": "0 0 640 512",
+        "iconPath": "M480.07 96H160a160 160 0 1 0 114.24 272h91.52A160 160 0 1 0 480.07 96zM248 268a12 12 0 0 1-12 12h-52v52a12 12 0 0 1-12 12h-24a12 12 0 0 1-12-12v-52H84a12 12 0 0 1-12-12v-24a12 12 0 0 1 12-12h52v-52a12 12 0 0 1 12-12h24a12 12 0 0 1 12 12v52h52a12 12 0 0 1 12 12zm216 76a40 40 0 1 1 40-40 40 40 0 0 1-40 40zm64-96a40 40 0 1 1 40-40 40 40 0 0 1-40 40z"
+      }
+    ],
+    "funFacts": [
+      {
+        "fact": "80+ <br/> Albumes Listened",
+        "size": "0 0 496 512",
+        "icon": "M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zM88 256H56c0-105.9 86.1-192 192-192v32c-88.2 0-160 71.8-160 160zm160 96c-53 0-96-43-96-96s43-96 96-96 96 43 96 96-43 96-96 96zm0-128c-17.7 0-32 14.3-32 32s14.3 32 32 32 32-14.3 32-32-14.3-32-32-32z"
+      },
+      {
+        "fact": "15 <br/> Awards Won",
+        "size": "0 0 576 512",
+        "icon": "M552 64H448V24c0-13.3-10.7-24-24-24H152c-13.3 0-24 10.7-24 24v40H24C10.7 64 0 74.7 0 88v56c0 35.7 22.5 72.4 61.9 100.7 31.5 22.7 69.8 37.1 110 41.7C203.3 338.5 240 360 240 360v72h-48c-35.3 0-64 20.7-64 56v12c0 6.6 5.4 12 12 12h296c6.6 0 12-5.4 12-12v-12c0-35.3-28.7-56-64-56h-48v-72s36.7-21.5 68.1-73.6c40.3-4.6 78.6-19 110-41.7 39.3-28.3 61.9-65 61.9-100.7V88c0-13.3-10.7-24-24-24zM99.3 192.8C74.9 175.2 64 155.6 64 144v-16h64.2c1 32.6 5.8 61.2 12.8 86.2-15.1-5.2-29.2-12.4-41.7-21.4zM512 144c0 16.1-17.7 36.1-35.3 48.8-12.5 9-26.7 16.2-41.8 21.4 7-25 11.8-53.6 12.8-86.2H512v16z"
+      },
+      {
+        "fact": "1 000+ <br/>Cups Of Coffee",
+        "size": "0 0 640 512",
+        "icon": "M192 384h192c53 0 96-43 96-96h32c70.6 0 128-57.4 128-128S582.6 32 512 32H120c-13.3 0-24 10.7-24 24v232c0 53 43 96 96 96zM512 96c35.3 0 64 28.7 64 64s-28.7 64-64 64h-32V96h32zm47.7 384H48.3c-47.6 0-61-64-36-64h583.3c25 0 11.8 64-35.9 64z"
+      },
+      {
+        "fact": "10 <br/> Countries Visited",
+        "size": "0 0 512 512",
+        "icon": "M349.565 98.783C295.978 98.783 251.721 64 184.348 64c-24.955 0-47.309 4.384-68.045 12.013a55.947 55.947 0 0 0 3.586-23.562C118.117 24.015 94.806 1.206 66.338.048 34.345-1.254 8 24.296 8 56c0 19.026 9.497 35.825 24 45.945V488c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-94.4c28.311-12.064 63.582-22.122 114.435-22.122 53.588 0 97.844 34.783 165.217 34.783 48.169 0 86.667-16.294 122.505-40.858C506.84 359.452 512 349.571 512 339.045v-243.1c0-23.393-24.269-38.87-45.485-29.016-34.338 15.948-76.454 31.854-116.95 31.854z"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Ryan Adlard",
+        "profession": "Web Designer",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      }
+    ],
+    "clients": [
+      {
+        "name": "Google",
+        "image": "https://ryancv.bslthemes.com/wp-content/uploads/2022/07/brand3-184x62.png",
+        "website": "http://www.Google.com"
+      },
+      {
+        "name": "Upwork",
+        "image": "https://ryancv.bslthemes.com/wp-content/uploads/2022/07/brand2_d-184x62.png",
+        "website": "http://upwork.com"
+      },
+      {
+        "name": "Freelancer",
+        "image": "https://ryancv.bslthemes.com/wp-content/uploads/2022/07/brand1_d-184x62.png",
+        "website": "http://freelancer.com"
+      },
+      {
+        "name": "ENvato",
+        "image": "https://ryancv.bslthemes.com/wp-content/uploads/2022/07/brand3_d-184x62.png",
+        "website": "http://envato.com"
+      }
+    ],
+    "socialMedia": [
+      {
+        "platform": "Twitter",
+        "url": ""
+      },
+      {
+        "platform": "Dribble",
+        "url": ""
+      },
+      {
+        "platform": "Github",
+        "url": ""
+      },
+      {
+        "platform": "Spotify",
+        "url": ""
+      },
+      {
+        "platform": "Stack Overflow",
+        "url": ""
+      }
+    ],
+    "experience": [
+      {
+        "from": "2009",
+        "to": "2010",
+        "role": "Senior Developer",
+        "company": "Envato Inc",
+        "logo": "https://ryancv.bslthemes.com/wp-content/uploads/2022/07/brand3_d.png"
+      },
+      {
+        "from": "2011",
+        "to": "2012",
+        "role": "Front-End Developer",
+        "company": "Upwork Inc",
+        "logo": "https://ryancv.bslthemes.com/wp-content/uploads/2022/07/brand2_d.png"
+      },
+      {
+        "from": "2013",
+        "to": "",
+        "role": "Art Director",
+        "company": "Google Inc.",
+        "logo": "https://ryancv.bslthemes.com/wp-content/uploads/2022/07/brand3.png"
+      }
+    ],
+    "education": [
+      {
+        "from": "2004",
+        "to": "2005",
+        "degree": "Web Design Course",
+        "institute": "London",
+        "description": "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript.",
+        "certificate": ""
+      },
+      {
+        "from": "2006",
+        "to": "2008",
+        "degree": "Programming Course",
+        "institute": "Paris",
+        "description": "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript.",
+        "certificate": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Web Design",
+        "level": "80"
+      },
+      {
+        "name": "Write Music",
+        "level": "40"
+      },
+      {
+        "name": "Photohsop",
+        "level": "60"
+      },
+      {
+        "name": "Graphic Design",
+        "level": "90"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "level": "80"
+      },
+      {
+        "name": "German",
+        "level": "40"
+      },
+      {
+        "name": "Italian",
+        "level": "60"
+      },
+      {
+        "name": "French",
+        "level": "90"
+      }
+    ],
+    "knowledge": [
+      "Website hosting",
+      "iOS and android apps",
+      "Create logo design",
+      "Design for print",
+      "Modern and mobile-ready",
+      "Advertising services include",
+      "Graphics and animations",
+      "Search engine marketing"
+    ],
+    "works": [
+      {
+        "name": "Social Website",
+        "url": "",
+        "snapshot": ""
+      }
+    ]
+  }
+}

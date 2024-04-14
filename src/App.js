@@ -1,24 +1,55 @@
-import logo from './logo.svg';
-import './App.css';
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import ErrorPage from "./Pages/ErrorPage";
+import AboutPage from "./Pages/AboutPage";
+import ResumePage from "./Pages/ResumePage";
+import WorksPage from "./Pages/WorksPage";
+import ContactPage from "./Pages/ContactPage";
+import RootLayout from "./Pages/RootLayout";
+import { useEffect } from "react";
+import { fetchProfileData } from "./store/profile-actions";
+import { useDispatch } from "react-redux";
+// import "bootstrap/dist/css/bootstrap.min.css";
 
+const routes = createBrowserRouter([
+  {
+    path: "/",
+    element: <RootLayout />,
+    errorElement: <ErrorPage />,
+    children: [
+      {
+        index: true,
+        element: <AboutPage />,
+      },
+      {
+        path: "/about",
+        element: <AboutPage />,
+      },
+      {
+        path: "/resume",
+        element: <ResumePage />,
+      },
+      {
+        path: "/work",
+        element: <WorksPage />,
+      },
+      {
+        path: "/contact",
+        element: <ContactPage />,
+      },
+    ],
+  },
+]);
 function App() {
+  const dispatch = useDispatch();
+
+  useEffect(() => {
+    dispatch(fetchProfileData());
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <RouterProvider router={routes}>
+      <div></div>
+    </RouterProvider>
   );
 }
 
